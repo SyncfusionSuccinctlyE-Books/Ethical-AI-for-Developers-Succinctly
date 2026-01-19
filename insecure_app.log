@@ -1,0 +1,2 @@
+2026-01-16 20:29:28,145 - Raw Request Data: {"name": "Jane Doe", "ssn": "999-99-9999", "address": "123 Main St, Anytown, USA", "credit_score": 720, "loan_amount": 50000}
+2026-01-16 20:29:28,145 - Prediction Result: Approved
